@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "SillyWilly58-footprint") (type "KiCad") (uri "${KIPRJMOD}/SillyWilly58-footprint.pretty") (options "") (descr ""))
+)

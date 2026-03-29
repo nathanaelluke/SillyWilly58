@@ -1,0 +1,34 @@
+# KiCad lock files
+*.lck
+*~
+\~*.lck
+
+# KiCad local/user-specific settings
+*.kicad_prl
+*.pro.user
+
+# KiCad backups and autosaves
+*-backups/
+_autosave-*
+*.bak
+
+# Generated netlists and intermediate exports
+*.net
+*.xml-bak
+
+# Fabrication/output artifacts
+gerbers/
+fab/
+fabrication/
+exports/
+plot/
+plots/
+*.gbr
+*.gbrjob
+*.drl
+*.zip
+*.pos
+*.csv
+*.step
+*.stp
+*.wrl
