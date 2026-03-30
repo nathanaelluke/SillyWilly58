@@ -21,6 +21,7 @@ _autosave-*
 gerbers/
 fab/
 fabrication/
+pcb/production/
 exports/
 plot/
 plots/
