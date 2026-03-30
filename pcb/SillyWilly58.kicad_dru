@@ -1,0 +1,14 @@
+(version 1)
+(rule Minimum_annular_width_1
+	(constraint annular_width (min 0.05mm))
+)
+(rule Minimum_soldermask_sliver_1
+	(constraint solder_mask_sliver (min 0.05mm))
+)
+(rule Hole_to_hole_distance_1
+	(constraint hole_to_hole (min 0.1mm))
+)
+(rule Copper_to_hole_clearance_1
+	(constraint hole_clearance (min 0.2mm))
+	(condition "A.NetName == 'DATA' && B.hasNetclass('GND')")
+)
