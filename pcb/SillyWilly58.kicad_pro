@@ -502,7 +502,7 @@
         "microvia_drill": 0.1,
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": -1,
+        "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "tuning_profile": "",
@@ -514,14 +514,13 @@
         "bus_width": 12,
         "clearance": 0.2,
         "diff_pair_gap": 0.25,
-        "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "GND",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": -1,
+        "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.5,
         "tuning_profile": "",
@@ -533,14 +532,13 @@
         "bus_width": 12,
         "clearance": 0.2,
         "diff_pair_gap": 0.25,
-        "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "VCC",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": -1,
+        "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.5,
         "tuning_profile": "",
@@ -908,15 +906,20 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Lily58_Pro.kicad_sch",
-        "name": "Lily58_Pro",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "filename": "SillyWilly58.kicad_sch",
+        "name": "SillyWilly58",
+        "uuid": "eb2f44cc-9d8b-4c90-a165-accfeff2a4f1"
       }
     ],
     "used_designators": "",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "eb2f44cc-9d8b-4c90-a165-accfeff2a4f1",
+      "SillyWilly58"
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
