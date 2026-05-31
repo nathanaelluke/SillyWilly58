@@ -83,7 +83,7 @@
 			(outputdirectory "gerber/")
 		)
 	)
-	(footprint "Lily58-footprint:RESISTOR_mini"
+	(footprint "SillyWilly58-footprint:RESISTOR_mini"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00005b7351fc")
 		(at 84.688035 56.039272 -90)
@@ -270,7 +270,7 @@
 			)
 		)
 	)
-	(footprint "Lily58-footprint:RESISTOR_mini"
+	(footprint "SillyWilly58-footprint:RESISTOR_mini"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00005b735209")
 		(at 86.938035 56.039272 -90)
@@ -790,7 +790,7 @@
 			)
 		)
 	)
-	(footprint "Lily58-footprint:1pin_conn"
+	(footprint "SillyWilly58-footprint:1pin_conn"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00005b8be931")
 		(at 84.7 60.7 180)
@@ -981,7 +981,7 @@
 			)
 		)
 	)
-	(footprint "Lily58-footprint:1pin_conn"
+	(footprint "SillyWilly58-footprint:1pin_conn"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00005b8be93f")
 		(at 86.9 60.7 180)
@@ -1172,7 +1172,7 @@
 			)
 		)
 	)
-	(footprint "Lily58-footprint:HOLE_M2_TH"
+	(footprint "SillyWilly58-footprint:HOLE_M2_TH"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00005b8be94e")
 		(at 129.6 59.6)
@@ -1234,7 +1234,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Lily58-footprint:HOLE_M2_TH"
+	(footprint "SillyWilly58-footprint:HOLE_M2_TH"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00005b8be953")
 		(at 205.8 61.8)
@@ -1296,7 +1296,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Lily58-footprint:HOLE_M2_TH"
+	(footprint "SillyWilly58-footprint:HOLE_M2_TH"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00005b8be958")
 		(at 129.6 97.6)
@@ -1358,7 +1358,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Lily58-footprint:HOLE_M2_TH"
+	(footprint "SillyWilly58-footprint:HOLE_M2_TH"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00005b8be95d")
 		(at 205.8 100)
@@ -1420,7 +1420,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Lily58-footprint:HOLE_M2_TH"
+	(footprint "SillyWilly58-footprint:HOLE_M2_TH"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00005b8be962")
 		(at 105 114.8 90)
@@ -1482,7 +1482,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Lily58-footprint:ProMicro_rev2"
+	(footprint "SillyWilly58-footprint:ProMicro_rev2"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00005b8be963")
 		(at 101 56)
@@ -2188,7 +2188,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Lily58-footprint:Jumper"
+	(footprint "SillyWilly58-footprint:Jumper"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00005be95811")
 		(at 104.3 69.3 90)
@@ -2309,7 +2309,7 @@
 			)
 		)
 	)
-	(footprint "Lily58-footprint:Jumper"
+	(footprint "SillyWilly58-footprint:Jumper"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00005be9581b")
 		(at 101.7 69.3 90)
@@ -2430,7 +2430,7 @@
 			)
 		)
 	)
-	(footprint "Lily58-footprint:Jumper"
+	(footprint "SillyWilly58-footprint:Jumper"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00005be95825")
 		(at 99.2 69.3 90)
@@ -2551,7 +2551,7 @@
 			)
 		)
 	)
-	(footprint "Lily58-footprint:TACT_SWITCH_TVBP06"
+	(footprint "SillyWilly58-footprint:TACT_SWITCH_TVBP06"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00005be9586c")
 		(at 85 67.7 90)
@@ -2776,7 +2776,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Lily58-footprint:jumper_data"
+	(footprint "SillyWilly58-footprint:jumper_data"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00005be95b4c")
 		(at 89 60.7 90)
@@ -20623,7 +20623,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Lily58-footprint:Jumper"
+	(footprint "SillyWilly58-footprint:Jumper"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00005be98c76")
 		(at 96.7 69.3 90)
@@ -20744,7 +20744,7 @@
 			)
 		)
 	)
-	(footprint "Lily58-footprint:LED"
+	(footprint "SillyWilly58-footprint:LED"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00005beddc08")
 		(at 112.7 81.1 180)
@@ -21134,7 +21134,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Lily58-footprint:OLED_4Pin"
+	(footprint "SillyWilly58-footprint:OLED_4Pin"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00005beddc3b")
 		(at 96.7 74.6)
@@ -21306,7 +21306,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Lily58-footprint:Jumper"
+	(footprint "SillyWilly58-footprint:Jumper"
 		(layer "B.Cu")
 		(uuid "00000000-0000-0000-0000-00005be95843")
 		(at 101.7 69.3 90)
@@ -21429,7 +21429,7 @@
 			)
 		)
 	)
-	(footprint "Lily58-footprint:Jumper"
+	(footprint "SillyWilly58-footprint:Jumper"
 		(layer "B.Cu")
 		(uuid "00000000-0000-0000-0000-00005be9584d")
 		(at 99.2 69.3 90)
@@ -21552,7 +21552,7 @@
 			)
 		)
 	)
-	(footprint "Lily58-footprint:Jumper"
+	(footprint "SillyWilly58-footprint:Jumper"
 		(layer "B.Cu")
 		(uuid "00000000-0000-0000-0000-00005be95857")
 		(at 96.7 69.3 90)
@@ -21675,7 +21675,7 @@
 			)
 		)
 	)
-	(footprint "Lily58-footprint:Jumper"
+	(footprint "SillyWilly58-footprint:Jumper"
 		(layer "B.Cu")
 		(uuid "00000000-0000-0000-0000-00005be98bb2")
 		(at 104.3 69.3 90)
